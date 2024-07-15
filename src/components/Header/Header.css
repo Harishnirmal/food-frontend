@@ -2,7 +2,7 @@
     height: 34vw;
     margin:0px auto;
     background: url('/header_img.png') no-repeat;
-    background-size: contain;
+    background-size: cover;
     position: relative;
     
 }
@@ -34,6 +34,7 @@
     color:#080808;
     font-weight: 500;
     padding: 1vw 2.3vw;
+    margin-left: 450px;
     background-color: rgb(129, 240, 231);
     font-size: max(1.1vw,13px);
     border-radius: 50px;
